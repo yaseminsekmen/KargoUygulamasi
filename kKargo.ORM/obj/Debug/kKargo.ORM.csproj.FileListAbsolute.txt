@@ -1,0 +1,5 @@
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\kKargo.ORM\bin\Debug\kKargo.ORM.dll
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\kKargo.ORM\bin\Debug\kKargo.ORM.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\kKargo.ORM\obj\Debug\kKargo.ORM.csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\kKargo.ORM\obj\Debug\kKargo.ORM.dll
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\kKargo.ORM\obj\Debug\kKargo.ORM.pdb

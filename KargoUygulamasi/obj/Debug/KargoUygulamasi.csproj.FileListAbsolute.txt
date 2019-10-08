@@ -1,0 +1,15 @@
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\bin\Debug\KargoUygulamasi.exe.config
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\bin\Debug\KargoUygulamasi.exe
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\bin\Debug\KargoUygulamasi.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\bin\Debug\kKargo.ORM.dll
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\bin\Debug\kKargo.ORM.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.csprojResolveAssemblyReference.cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.Ar.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.Form1.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.Properties.Resources.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.csproj.GenerateResource.Cache
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.exe
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.pdb
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.Sevk.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.Mus.resources
+C:\Users\smart.ogrenci\Desktop\Yasemin SEKMEN\KargoUygulamasi\KargoUygulamasi\obj\Debug\KargoUygulamasi.Su.resources
